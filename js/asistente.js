@@ -56,9 +56,9 @@ const respuestasIA = {
 
     "cual es el atomo de un neutron": "El neutrón es una partícula subatómica, un nucleón, sin carga neta, presente en el núcleo atómico de prácticamente todos los átomos, excepto el protio. Aunque se dice que el neutrón no tiene carga, en realidad está compuesto por tres partículas elementales cargadas llamadas cuarks, cuyas cargas sumadas son cero.",
 
-    
+    "se puede conseguir empleo en ecuador": "La tasa de empleo adecuado se ubicó en 33,6% en marzo de 2024, según el Instituto Nacional de Estadística y Censos (INEC). Eso equivale a una baja de 1,5 puntos porcentuales frente al mismo mes de 2023.",
 
-
+   "
 
     
 
