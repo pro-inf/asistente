@@ -64,6 +64,7 @@ const respuestasIA = {
 
    "como se dio el origen de los idiomas": "El origen de los idiomas es un tema complejo y multifacético que ha fascinado a lingüistas, antropólogos y filósofos durante siglos. Aunque no hay un consenso definitivo sobre cómo surgieron los idiomas, se han propuesto varias teorías para explicar este fenómeno.",
 
+    
 }
 
 // Función para enviar un mensaje
