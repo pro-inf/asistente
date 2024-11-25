@@ -58,11 +58,11 @@ const respuestasIA = {
 
     "se puede conseguir empleo en ecuador": "La tasa de empleo adecuado se ubicó en 33,6% en marzo de 2024, según el Instituto Nacional de Estadística y Censos (INEC). Eso equivale a una baja de 1,5 puntos porcentuales frente al mismo mes de 2023.",
 
-   "
+   "me puedes ayudar con mi tarea": "¡Claro! ¿En qué te gustaría que te ayude con tu tarea?.",
 
-    
+   "como se origino la filosofía": "La filosofía se originó en la antigua Grecia, alrededor del siglo VI aC, aunque sus raíces pueden rastrearse en las tradiciones anteriores de Mesopotamia, Egipto y otras culturas antiguas. Sin embargo, fue en Grecia donde la filosofía comenzó a desarrollarse de manera sistemática, como una disciplina que se apartaba de la mitología y la religión para buscar explicaciones racionales y lógicas sobre el mundo y la existencia humana.",
 
-    
+   "como se dio el origen de los idiomas": "El origen de los idiomas es un tema complejo y multifacético que ha fascinado a lingüistas, antropólogos y filósofos durante siglos. Aunque no hay un consenso definitivo sobre cómo surgieron los idiomas, se han propuesto varias teorías para explicar este fenómeno.",
 
 }
 
