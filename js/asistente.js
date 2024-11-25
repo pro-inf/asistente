@@ -6,6 +6,8 @@ const respuestasIA = {
 
     "cual es tu nombre": "Soy una IA creada para ayudarte.",
 
+    "cual es tu mascota": "Mi mascota es la web.",
+
     "adios": "¡Hasta pronto! Que tengas un gran día.",
 
     "quien eres": "Soy una inteligencia artificial diseñada para responder tus preguntas.",
