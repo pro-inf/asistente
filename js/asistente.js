@@ -86,11 +86,6 @@ const respuestasIA = {
 
     "¿Qué hacer si me siento cansado todo el tiempo?": "Sentirse cansado todo el tiempo puede ser un signo de que algo en tu vida necesita ajustarse. El cansancio persistente puede ser causado por una variedad de factores, desde hábitos de vida poco saludables hasta problemas médicos subyacentes, algunas recomendaciones son Revisa tu calidad de sueño, Aliméntate de manera saludable, Haz ejercicio regularmente, Evalúa tu salud mental, El cansancio constante puede tener muchas causas, desde hábitos de vida poco saludables hasta problemas médicos o emocionales. Al identificar la raíz del problema y hacer ajustes en tu rutina diaria, puedes mejorar significativamente tu energía y bienestar general. Si el cansancio persiste, no dudes en consultar a un profesional para obtener un diagnóstico adecuado."
 
-
-
-"
-
-
 }
 
 // Función para enviar un mensaje
