@@ -64,7 +64,33 @@ const respuestasIA = {
 
    "como se dio el origen de los idiomas": "El origen de los idiomas es un tema complejo y multifacético que ha fascinado a lingüistas, antropólogos y filósofos durante siglos. Aunque no hay un consenso definitivo sobre cómo surgieron los idiomas, se han propuesto varias teorías para explicar este fenómeno.",
 
-    
+   "¿Qué es la inteligencia artificial?": "La inteligencia artificial (IA) es un campo de la informática que busca desarrollar sistemas o máquinas capaces de realizar tareas que normalmente requieren de inteligencia humana. Estas tareas incluyen actividades como el aprendizaje, la toma de decisiones, el reconocimiento de patrones, el procesamiento del lenguaje natural, la percepción sensorial y la resolución de problemas.",
+
+    "¿Cuántas horas de sueño son recomendables?": "La cantidad recomendada de horas de sueño varía según la edad y las necesidades individuales de cada persona. Sin embargo, existen pautas generales basadas en investigaciones científicas que indican cuánto sueño es ideal para mantener una buena salud.",
+
+   "¿Qué debo hacer si tengo fiebre?": "Bebe mucho líquido para mantenerte hidratado. Usa ropa liviana. Usa una manta liviana si sientes frío, hasta que pasen los escalofríos. Toma paracetamol (Tylenol, otros) o ibuprofeno (Advil, Motrin IB, otros).",
+
+    "¿Cómo preparar un buen currículum?": "Preparar un buen currículum vitae (CV) es crucial para destacar en el proceso de búsqueda de empleo. Un currículum bien estructurado y bien escrito puede ser la clave para captar la atención de un reclutador.",
+
+    "¿Cómo bajar de peso de manera saludable?": "Bajar de peso de manera saludable es un proceso gradual que implica cambios en la dieta, el ejercicio y el estilo de vida. Es importante hacerlo de forma segura para evitar efectos negativos en la salud.",
+        
+    "¿Cómo mejorar la memoria para estudiar?": "Aquí te dejo algunos consejos prácticos y técnicas que pueden ayudarte a potenciar tu memoria: 1. Organiza y estructura la información Usa mapas mentales: Los mapas mentales son diagramas visuales que organizan la información de manera jerárquica y conectada. Esto te ayuda a visualizar las relaciones entre conceptos y facilita la retención. Divide el contenido: En lugar de intentar estudiar todo de una vez, divide la información en bloques pequeños. Estudia por secciones y repasa cada parte antes de pasar a la siguiente. Usa listas y resúmenes: Realizar resúmenes o listas de puntos clave te ayuda a organizar y simplificar la información para que sea más fácil de recordar.",
+
+    "¿Cuál es la diferencia entre un videojuego en línea y uno de consola?": "La diferencia entre un videojuego en línea y uno de consola radica principalmente en la plataforma en la que se juega, la conectividad, y la experiencia de juego.",
+
+    "¿Qué actividades hacer en casa para distraerme?": "Las posibilidades son muchas para distraerte en casa. Puedes optar por actividades creativas, juegos, ejercicios físicos, aprender algo nuevo o incluso relajarte. Lo importante es encontrar lo que más disfrutes para aprovechar al máximo tu tiempo y mantener tu mente y cuerpo activos.",
+
+    "¿Cómo desarrollar buenos hábitos de vida?": "Desarrollar buenos hábitos de vida es clave para mejorar tu salud física y mental a largo plazo, desarrollar buenos hábitos de vida es un proceso gradual que requiere disciplina, motivación y paciencia. Recuerda que pequeños cambios consistentes pueden tener un gran impacto en tu bienestar general.",
+
+    "¿Cómo puedo reducir el estrés?": "Reducir el estrés es fundamental para mejorar tanto tu salud mental como física, algunas serian las Técnicas de Relajación, Ejercicio Físico, Cuidado de la Salud Mental, Hábitos de Vida Saludables, Reducir el estrés requiere un enfoque integral que involucre tanto el cuidado físico como el emocional. Al implementar algunas de estas estrategias de manera constante, puedes lograr una mejor gestión del estrés y mejorar tu calidad de vida.",
+
+    "¿Qué hacer si me siento cansado todo el tiempo?": "Sentirse cansado todo el tiempo puede ser un signo de que algo en tu vida necesita ajustarse. El cansancio persistente puede ser causado por una variedad de factores, desde hábitos de vida poco saludables hasta problemas médicos subyacentes, algunas recomendaciones son Revisa tu calidad de sueño, Aliméntate de manera saludable, Haz ejercicio regularmente, Evalúa tu salud mental, El cansancio constante puede tener muchas causas, desde hábitos de vida poco saludables hasta problemas médicos o emocionales. Al identificar la raíz del problema y hacer ajustes en tu rutina diaria, puedes mejorar significativamente tu energía y bienestar general. Si el cansancio persiste, no dudes en consultar a un profesional para obtener un diagnóstico adecuado."
+
+
+
+"
+
+
 }
 
 // Función para enviar un mensaje
