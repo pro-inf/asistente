@@ -1,32 +1,48 @@
 * {
+    font-family: sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+  }
 
-body {
-    font-family: 'Arial', sans-serif;
-    background-color: #AFEEEE;
+  body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-}
-
+    min-height: 100vh;
+    background: url(../images/hero.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
 .chat-container {
     width: 100%;
     max-width: 500px;
     background-color: #fff;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(18px);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     overflow: hidden;
     display: flex;
     flex-direction: column;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.title_text {
+    width: 100%;
+    float: left;
+    color: #184850;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 5px 0px;
 }
 
 .chat-box {
     padding: 20px;
-    height: 400px;
+    height: 420px;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
@@ -67,7 +83,7 @@ button {
     background-color: #4CAF50;
     color: white;
     border: none;
-    border-radius: 20px;
+    border-radius: 10px;
     padding: 10px 15px;
     cursor: pointer;
     font-size: 16px;
@@ -75,5 +91,5 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #1abf1d;
 }
