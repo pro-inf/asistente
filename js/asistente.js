@@ -136,23 +136,23 @@ const respuestasIA = {
     
     "cual es la capital de españa" : "la capital de españa es madrid",
     
-    "que es un ecosistema" : "un ecosistema es una comunidad de organismos interactuando entre sí y con su entorno",
+    "que es un ecosistema" : "Un ecosistema es una comunidad de organismos interactuando entre sí y con su entorno",
     
-    "que significa la palabra 'amor'" : "el amor es un sentimiento de afecto profundo hacia alguien o algo",
+    "que significa la palabra 'amor'" : "El amor es un sentimiento de afecto profundo hacia alguien o algo",
     
     "que es un agujero negro" : "un agujero negro es una región del espacio donde la gravedad es tan fuerte que nada puede escapar de él",
     
-    "cuantos oceanos hay en la tierra" : "hay cinco océanos: pacífico, atlántico, índico, ártico y antártico",
+    "cuantos oceanos hay en la tierra" : "Hay 5 océanos: pacífico, atlántico, índico, ártico y antártico",
     
     "quien fue el primer presidente de los estados unidos" : "george washington fue el primer presidente de los estados unidos",
     
     "que es la inteligencia artificial" : "la inteligencia artificial es la capacidad de una máquina para realizar tareas que requieren inteligencia humana",
     
-    "que es la energia renovable" : "la energía renovable proviene de fuentes naturales que se reponen constantemente, como el sol o el viento",
+    "que es la energia renovable" : "La energía renovable proviene de fuentes naturales que se reponen constantemente, como el sol o el viento",
     
-    "quien fue william shakespeare" : "william shakespeare fue un escritor y dramaturgo inglés muy conocido por sus obras",
+    "quien fue william shakespeare" : "William Shakespeare fue un escritor y dramaturgo inglés muy conocido por sus obras",
     
-    "cual es el idioma mas hablado del mundo" : "el chino mandarín es el idioma más hablado del mundo",
+    "cual es el idioma mas hablado del mundo" : "El chino mandarín es el idioma más hablado del mundo",
     
     "que es la evolucion" : "la evolución es el proceso mediante el cual las especies cambian con el tiempo a través de la selección natural",
     
@@ -160,13 +160,13 @@ const respuestasIA = {
     
     "que es un terremoto" : "un terremoto es un temblor de la tierra causado por el movimiento de las placas tectónicas",
     
-    "que significa la palabra 'historia'" : "la historia es el estudio de los hechos y acontecimientos pasados",
+    "que significa la palabra 'historia'" : "La historia es el estudio de los hechos y acontecimientos pasados",
     
     "que es el adn" : "el adn es el material genético que contiene la información hereditaria de los seres vivos",
     
-    "quien pinto la ultima cena": "leonardo da vinci pintó la última cena",
+    "quien pinto la ultima cena": "Leonardo Da Vinci pintó la última cena",
     
-    "cuantos continentes hay" : "hay siete continentes en el mundo",
+    "cuantos continentes hay" : "Hay 7 continentes en el mundo",
     
     "quien es el fundador de facebook" : "Mark Zuckerberg es el fundador de facebook",
     
@@ -188,17 +188,17 @@ const respuestasIA = {
     
     "cuantos metros tiene un kilometro" : "un kilómetro tiene 1,000 metros",
     
-    "quien invento la bombilla" : "thomas edison inventó la bombilla eléctrica",
+    "quien invento la bombilla" : "Thomas Edison inventó la bombilla eléctrica",
     
     "que es una democracia" : "una democracia es un sistema de gobierno en el que los ciudadanos tienen el poder de tomar decisiones mediante elecciones",
     
-    "quien es el creador de microsoft" : "bill gates es el creador de microsoft",
+    "quien es el creador de microsoft" : "Bill Gates es el creador de microsoft",
     
     "que es una nube" : "una nube es una masa de vapor de agua condensado suspendido en la atmósfera",
     
     "cual es el animal terrestre mas rapido" : "el guepardo es el animal terrestre más rápido",
     
-    "quien pinto el guernica" : "pablo picasso pintó 'el guernica'",
+    "quien pinto el guernica" : "Pablo Picasso pintó 'el guernica'",
     
     "que es el sistema solar" : "el sistema solar es el conjunto de planetas, satélites y otros cuerpos que orbitan alrededor del sol",
     
@@ -206,15 +206,15 @@ const respuestasIA = {
     
     "cual es el simbolo quimico del oxigeno" : "el símbolo químico del oxígeno es o",
     
-    "en que continente se encuentra egipto" : "egipto se encuentra en el continente africano",
+    "en que continente se encuentra egipto" : "Egipto se encuentra en el continente africano",
     
-    "cuantos dias tiene un mes de febrero en un año bisiesto" : "en un año bisiesto, febrero tiene 29 días",
+    "cuantos dias tiene un mes de febrero en un año bisiesto" : "En un año bisiesto, febrero tiene 29 días",
     
-    "que es un gen" : "un gen es una unidad de información genética que se transmite de una generación a otra",
+    "que es un gen" : "Un gen es una unidad de información genética que se transmite de una generación a otra",
     
-    "que significa la palabra etica" : "la ética es el conjunto de principios morales que rigen el comportamiento humano",
+    "que significa la palabra etica" : "La ética es el conjunto de principios morales que rigen el comportamiento humano",
     
-    "quien fue marie curie" : "marie curie fue una científica pionera en el estudio de la radiactividad",
+    "quien fue marie curie" : "Marie Curie fue una científica pionera en el estudio de la radiactividad",
     
     "que es la teoria cuantica" : "la teoría cuántica es una rama de la física que estudia los fenómenos a nivel de partículas subatómicas",
     
@@ -222,43 +222,43 @@ const respuestasIA = {
     
     "que es la gravedad" : "la gravedad es la fuerza que atrae los objetos hacia el centro de la tierra",
     
-    "quien fue nikola tesla" : "nikola tesla fue un inventor y científico conocido por sus contribuciones al desarrollo de la corriente alterna",
+    "quien fue nikola tesla" : "Nikola Tesla fue un inventor y científico conocido por sus contribuciones al desarrollo de la corriente alterna",
     
     "cual es la montaña mas alta del mundo" : "el monte everest es la montaña más alta del mundo",
     
     "que es una vacuna" : "una vacuna es una sustancia que estimula el sistema inmunológico para combatir enfermedades",
     
-    "quien fue pablo neruda" : "pablo neruda fue un poeta chileno y ganador del premio nobel de literatura",
+    "quien fue pablo neruda" : "Pablo Neruda fue un poeta chileno y ganador del premio nobel de literatura",
     
-    "que es un satelite" : "un satélite es un objeto que orbita alrededor de un planeta o estrella",
+    "que es un satelite" : "Un satélite es un objeto que orbita alrededor de un planeta o estrella",
     
-    "que es el sistema nervioso" : "el sistema nervioso es el conjunto de órganos y tejidos que coordina las acciones y reacciones del cuerpo",
+    "que es el sistema nervioso" : "El sistema nervioso es el conjunto de órganos y tejidos que coordina las acciones y reacciones del cuerpo",
     
-    "quien fue mahatma gandhi" : "mahatma gandhi fue un líder político y espiritual de la india que promovió la no violencia",
+    "quien fue mahatma gandhi" : "Mahatma Gandhi fue un líder político y espiritual de la india que promovió la no violencia",
     
-    "que es un ph" : "el ph es una medida de la acidez o alcalinidad de una sustancia",
+    "que es un ph" : "el pH es una medida de la acidez o alcalinidad de una sustancia",
     
     "que es la energia cinetica" : "la energía cinética es la energía que tiene un objeto debido a su movimiento",
     
     "que es un eclipse" : "un eclipse es el oscurecimiento de un cuerpo celeste debido al paso de otro delante de él",
     
-    "cual es la capital de francia" : "la capital de francia es parís",
+    "cual es la capital de francia" : "la capital de Francia es París",
     
     "que es la fotosintesis" : "la fotosíntesis es el proceso en el que las plantas convierten la luz solar en energía",
     
-    "quien fue charles darwin" : "charles darwin fue un naturalista que desarrolló la teoría de la evolución por selección natural",
+    "quien fue charles darwin" : "Charles Darwin fue un naturalista que desarrolló la teoría de la evolución por selección natural",
     
-    "cual es el gas mas abundante en la atmósfera" : "el gas más abundante en la atmósfera es el nitrógeno",
+    "cual es el gas mas abundante en la atmósfera" : "El gas más abundante en la atmósfera es el nitrógeno",
     
     "que es el cerebro" : "el cerebro es el órgano que controla las funciones del cuerpo y la mente",
     
     "que es una revolucion" : "una revolución es un cambio radical y profundo en la política, la economía o la sociedad",
     
-    "quien fue leonardo da vinci" : "leonardo da vinci fue un polímata del renacimiento, conocido por sus obras artísticas y sus inventos",
+    "quien fue leonardo da vinci" : "Leonardo Da Vinci fue un polímata del renacimiento, conocido por sus obras artísticas y sus inventos",
     
     "que es el sol" : "el sol es una estrella que proporciona luz y calor a la tierra",
     
-    "cual es el pais mas poblado del mundo" : "china es el país más poblado del mundo",
+    "cual es el pais mas poblado del mundo" : "China es el país más poblado del mundo",
     
     "que es la ley de gravedad" : "la ley de gravedad afirma que todos los objetos se atraen entre sí con una fuerza proporcional a sus masas",
     
@@ -270,7 +270,7 @@ const respuestasIA = {
     
     "que es la temperatura" : "la temperatura es la medida del calor o frío de un cuerpo o ambiente",
     
-    "quien fue martin luther king jr" : "martin luther king jr fue un líder estadounidense en la lucha por los derechos civiles",
+    "quien fue martin luther king jr" : "Martin Luther King JR fue un líder estadounidense en la lucha por los derechos civiles",
     
     "que es un sistema politico" : "un sistema político es el conjunto de instituciones, normas y prácticas que regulan la organización y el ejercicio del poder en un país",
     
@@ -278,29 +278,29 @@ const respuestasIA = {
     
     "que es la energia solar" : "la energía solar es la energía obtenida a partir de la radiación solar",
     
-    "quien fue freud" : "sigmund freud fue un neurólogo y fundador del psicoanálisis",
+    "quien fue freud" : "Sigmund Freud fue un neurólogo y fundador del psicoanálisis",
     
-    "cual es la ciudad mas grande del mundo" : "la ciudad más grande del mundo es Tokio, Japón",
+    "cual es la ciudad mas grande del mundo" : "La ciudad más grande del mundo es Tokio, Japón",
     
     "que es la inteligencia emocional" : "la inteligencia emocional es la capacidad de reconocer y manejar nuestras propias emociones y las de los demás",
     
     "que es un rio" : "un río es una corriente de agua que fluye hacia un océano o mar",
     
-    "quien fue socrates" : "sócrates fue un filósofo griego considerado uno de los padres de la filosofía occidental",
+    "quien fue socrates" : "Sócrates fue un filósofo griego considerado uno de los padres de la filosofía occidental",
     
     "que es el internet" : "el internet es una red global de computadoras interconectadas",
     
     "cual es la moneda de los estados unidos" : "la moneda de los estados unidos es el dólar",
     
-    "que es la inteligencia artificial" : "la inteligencia artificial es el desarrollo de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana",
+    "que es la inteligencia artificial" : "La inteligencia artificial es el desarrollo de sistemas capaces de realizar tareas que normalmente requieren inteligencia humana",
     
     "que es la luna" : "la luna es el satélite natural de la tierra",
     
-    "cual es la especie mas antigua de la tierra" : "la especie más antigua de la tierra son las cianobacterias",
+    "cual es la especie mas antigua de la tierra" : "La especie más antigua de la tierra son las cianobacterias",
     
-    "quien fue picasso" : "pablo picasso fue un pintor y escultor español, uno de los artistas más influyentes del siglo xx",
+    "quien fue picasso" : "Pablo Picasso fue un pintor y escultor español, uno de los artistas más influyentes del siglo xx",
     
-    "que es un virus informatico" : "un virus informático es un programa malicioso diseñado para alterar el funcionamiento de una computadora",
+    "que es un virus informatico" : "Un virus Informático es un programa malicioso diseñado para alterar el funcionamiento de una computadora",
     
 }
 
